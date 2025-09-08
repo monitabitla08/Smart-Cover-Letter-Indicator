@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Cover Letter Creator</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Smart Cover Letter Creator</h1>
+        <div class="input-section">
+            <label for="resume">Resume:</label>
+            <textarea id="resume" rows="10" placeholder="Paste your resume here..."></textarea>
+        </div>
+        <div class="input-section">
+            <label for="job_description">Job Description:</label>
+            <textarea id="job_description" rows="10" placeholder="Paste the job description here..."></textarea>
+        </div>
+        <button id="run-btn">Run</button>
+        <div class="output-section">
+            <h2>Gap/Match Report</h2>
+            <div id="gaps" class="output-box"></div>
+        </div>
+        <div class="output-section">
+            <h2>Cover Letter</h2>
+            <div id="cover_letter" class="output-box"></div>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+What You'll Do
+
+Collaborates cross-functionally with leaders, business analysts, project managers, IT architects, technical leads and other developers, along with internal customers, to understand needs and develop solutions according to business requirements
+Creates detailed project specifications, requirements, and estimates
+Contribute and supports the development of software and adheres to best practices and security guidelines using Java and Python
+Researches and implements new technologies to enhance current processes, security, and performance
+Troubleshoots and debugs complex issues; identifies and implements solutions
+Deploy, manage, monitor, and troubleshoot scalable Azure-based platform environments.
+Monitor application run expenses, identify, and implement cost saving opportunities both at application and platform level.
+Build and maintain Infrastructure as Code using tools like Terraform and Bicep
+Implement and maintain CI/CD and Automation pipelines using Azure DevOps, Azure CLI to streamline release processes
+Implement monitoring/logging via Azure Monitor, Log Analytics, Dynatrace
+
+Minimum Qualifications- Education & Prior Job Experience
+
+Bachelor’s degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline.
+3+ years of Software Development Life Cycle (SDLC) experience
+3+ years Azure Cloud platform development experience
+
+

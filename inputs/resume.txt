@@ -1,0 +1,32 @@
+MONITA BITLA
+Software Engineer
+(513) 413-5622 | monitabitla30@gmail.com | https://www.linkedin.com/in/monita-bitla-/
+SUMMARY	.
+ 
+Software Engineer with experience in backend development, data workflows, and automation using Node.js, SQL, and Python. Proficient in building RESTful APIs, data transformation, and managing PostgreSQL databases. Adept in full SDLC, test automation, and Agile practices. Skilled in version control with Git, Unix shell scripting, and collaborating in Agile environments using Jira and Confluence. I thrive on solving business challenges and crafting innovative solutions. Known for being a fast learner and highly adaptable, I enjoy working in collaborative, cross-functional teams. I'm enthusiastic about continuous learning, effective communication, and bringing a positive, proactive approach to every project I take on.
+
+EDUCATION	.
+ 
+Master of Science in Information Technology	Aug 2023 - Apr 2025
+University of Cincinnati, Ohio.	GPA: 4/4
+Bachelor of Technology in Electronics and Communication	Aug 2018 - Jul 2022 Kakatiya Institute of Technology and Sciences, India.		GPA: 3.62/4
+
+WORK EXPERIENCE	.
+ 
+Software Engineer, NetCracker Technologies, IN.	Aug 2022 - July 2023
+●	Designed and implemented end-to-end data workflows in the Active Mediation Tool (AMM) to enable accurate and efficient data flow from upstream systems to downstream targets.
+●	Developed RESTful APIs using Node.js and Express.js and wrote complex SQL queries to extract, transform, and store data into PostgreSQL
+tables based on functional specs provided by business analysts.
+●	Utilized Python (Pandas, NumPy) and SQL for data cleaning, pre-processing, and statistical analysis, enabling accurate trend detection and business insights.
+●	Created directories, handled file operations, and performed routine automation using Unix shell scripting, improving operational efficiency and log management. Performed basic data migration and storage tasks using AWS tools, including transferring cleaned datasets to Amazon S3 for downstream processing.
+●	Proactively identified data discrepancies and missing values during validation, enhancing data quality and preventing downstream failures and transformed raw input data into structured, readable formats, ensuring consistency and completeness before routing to designated systems.
+●	Created detailed test cases and QA documentation to validate workflows and APIs, supporting cross-functional QA teams during release cycles.
+●	Used Git and GitHub for efficient version control, regularly performing pull, commit, and push operations to manage code changes and collaborate with team members.
+●	Used Jira for sprint planning and task tracking and documented technical procedures and workflows in Confluence to ensure cross-team knowledge sharing.
+Software Engineer Intern, NetCracker Technologies, IN.	Feb 2022 - July 2022
+●	Underwent comprehensive training in various programming languages and technologies, including Java, Python, R, Perl, SQL, PostgreSQL, and APL. This experience enabled me to gain hands-on experience with database management using SQL and PostgreSQL, and to enhance my problem-solving skills through practical applications in Java and Python.
+●	Collaborated with team members on projects that emphasized coding best practices and efficient data handling, further refining my technical skills and ability to work in a team-oriented environment.
+Intern, Smart-Waves Technologies, IN.	Nov 2020 - Jan 2021
+●	Assisted in the design and development of printed circuit boards (PCBs), including schematic capture and layout. Supported the engineering team with prototype testing and provided documentation for design improvements.
+●	Contributed to the design of 5 PCB layouts using C language, ensuring compliance with industry standards and reducing design errors.
+●	Assisted in the testing and debugging of PCB prototypes, identifying and resolving 10+ critical issues that enhanced product reliability. Developed documentation for PCB design.

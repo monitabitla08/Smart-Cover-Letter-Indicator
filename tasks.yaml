@@ -1,0 +1,50 @@
+match_task:
+  description: |
+    You will receive two inputs:
+    1) The candidate's resume (plain text).
+    2) The job description (plain text).
+
+    Produce a structured *Gap/Match Report* with the following sections:
+    - Overall Match Score (0–100) and a one-line verdict.
+    - Top 5 Strength Matches (bullet list with short evidence quotes).
+    - Top 5 Gaps or Risks (bullet list with mitigation ideas).
+    - Role Requirements vs. Candidate Evidence (2-column style narrative).
+    - Actionable Next Steps for the candidate (3–7 bullets).
+  expected_output: |
+    A clean, markdown-formatted report with the sections above. Avoid fluff.
+    Use short quotes from resume/JD when helpful.
+  output_file: outputs/match_report.md
+
+# resume_enhancer_task:
+#   description: |
+#     Using the previously generated Gap/Match Report as context, plus the candidate's
+#     original resume and the job description, improve the resume by:
+
+#     - Emphasizing strengths and relevant experiences.
+#     - Addressing or minimizing gaps honestly.
+#     - Tailoring language to align with the job description.
+#     - Keeping it clear, concise, and truthful.
+
+#     Requirements:
+#     - Maintain original structure and formatting as much as possible.
+#     - Use bullet points for clarity.
+#     - Avoid overclaiming; be realistic about skills/experience.
+#   expected_output: |
+#     An improved version of the candidate's resume in markdown format,
+#     ready for submission.
+#   output_file: outputs/enhanced_resume.md
+
+cover_letter_task:
+  description: |
+    Using the previously generated Gap/Match Report as context, plus the candidate's resume
+    and job description, write a tailored *one-page cover letter*:
+
+    Requirements:
+    - 3–5 short paragraphs.
+    - Confident but sincere tone; avoid overclaiming.
+    - Highlight strongest matches from the report; address 1–2 gaps with solutions.
+    - Use specifics (tools, domains, results) when available.
+    - End with a polite call-to-action and availability.
+  expected_output: |
+    A markdown-formatted cover letter suitable for emailing or uploading.
+  output_file: outputs/cover_letter.md
